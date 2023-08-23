@@ -1,0 +1,3 @@
+Mojang Studios - Base Textures
+Zaratustra Productions - Team behind eversion, the game that inspired to make this pack.
+bedrock.dev - Documentations on giving entities brightmaps and custom fogs.

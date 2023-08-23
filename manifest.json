@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§8The Nether, The Way It Should've Been. By Renegade4339.",
+    "name": "§4eversion Nether",
+    "uuid": "a8cb4ebc-4953-4359-88c8-5da6c0f65494",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "EVERT",
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "uuid": "ab98d763-5a00-443e-a276-55de3ab039c2",
+      "type": "resources"
+    }
+  ]
+}
